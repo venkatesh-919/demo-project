@@ -1,0 +1,5 @@
+git init
+git clone "project will be better"
+ sh "bette"
+ close()
+ 
